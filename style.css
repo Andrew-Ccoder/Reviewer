@@ -1,0 +1,44 @@
+#main
+    {
+      background-color:whitesmoke;
+    }
+
+#title
+    {
+       padding-left: 600px;
+       font-size: 40px;
+       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    p{
+        padding-left: 575px;
+        font-size: 30px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+#img-caption
+    {
+        padding-left: 400px;
+        font-size: 20px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+#img-div
+    {
+        background-color:#77889938;
+        
+    }
+#img
+    {
+        width:700px;
+        padding-left: 400px;
+        border-radius: 2%;
+    }
+#tribute-info
+    {
+        padding-left: 100px;   
+        font-size: large;
+    } 
+#tribute-link
+{
+color: #e20d0d;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
